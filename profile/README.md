@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, thanks for checking out our work. 👋
 
 <!--
 
