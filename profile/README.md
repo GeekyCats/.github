@@ -1,5 +1,9 @@
 ## Hi there, thanks for checking out our work. 👋
 
+## Visitors Count
+
+<img align="left" src = "https://profile-counter.glitch.me/GeekyCats/count.svg" alt ="Loading">
+
 <!--
 
 **Here are some ideas to get you started:**
